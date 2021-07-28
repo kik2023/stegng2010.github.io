@@ -1,3 +1,6 @@
+### Nothing here for now
+All you will be reading are just auto-generated texts. don't waste your time on reading those
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/stegng2010/stegng2010.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
